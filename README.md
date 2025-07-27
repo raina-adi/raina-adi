@@ -24,3 +24,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raina-adi&show_icons=true&locale=en&layout=compact" alt="raina-adi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raina-adi&show_icons=true&locale=en" alt="raina-adi" /></p>
+
+
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SAHILSHANGLOO35&icon=0&color=0)](https://visitcount.itsvg.in)

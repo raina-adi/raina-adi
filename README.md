@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm ADITYA RAINA</h1>
-<h3 align="center">Trying to Complete Full Stack Development🧐🤓</h3>
-
+# 💫 About Me:
+👋 Hi, my name is Aditya Raina<br>🌱 I’m currently learning: Web3<br>⚡ Fun fact | Hobby: Singing, Playing Cricket<br>📫 Reach me at: Adityaraina170@gmail.com<br>
 
 - 🤝 I’m looking for help with **Backend**
 
@@ -19,11 +18,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raina-adi&show_icons=true&locale=en&layout=compact" alt="raina-adi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raina-adi&show_icons=true&locale=en" alt="raina-adi" /></p>
 
 
 ### ✍️ Random Dev Quote
